@@ -62,7 +62,7 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
   
 ![Benard's GitHub stats](https://github-readme-stats.vercel.app/api?username=benardopiyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
@@ -74,7 +74,7 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### Blockchain & Web3
 [![Project](https://img.shields.io/badge/🌐_DeFi_Protocol-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/benardopiyo/defi-protocol)
@@ -96,7 +96,7 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 
 ## Achievements & Recognition
 
-<div align="center">
+<div align="left">
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=benardopiyo&theme=tokyonight&no-frame=true&row=2&column=3)
 
@@ -114,7 +114,7 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 
 ## 🤝 Let's Connect & Collaborate
 
-<div align="center">
+<div align="left">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benardopiyo13@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benard-opiyo)
@@ -128,7 +128,7 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 
 ## 💡 Philosophy & Vision
 
-<div align="center">
+<div align="left">
   
 *"Innovation distinguishes between a leader and a follower. Building the decentralized future, one block at a time."*
 
@@ -139,7 +139,7 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 
 ---
 
-<div align="center">
+<div align="left">
   
 **Building tomorrow's technology today 🚀 | Let's create the future together**
 
