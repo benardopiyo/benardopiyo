@@ -19,7 +19,7 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Core Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
