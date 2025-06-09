@@ -15,7 +15,7 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 - Exploring **Machine Learning** integration with blockchain infrastructure
 - Building **DeFi applications** and **smart contract ecosystems**
 - **2025 Goals:** Launch a Web3 startup, contribute to major blockchain protocols
-- **Fun fact:** I believe the future is **decentralized**, **intelligent**, and **lightning-fast**
+- **Fun fact:** I believe the future is **agentic**, **decentralized**, **intelligent**, and **lightning-fast**
 
 ## 🛠️ Tech Stack
 
