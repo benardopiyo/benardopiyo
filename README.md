@@ -60,18 +60,6 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="left">
-  
-![Benard's GitHub stats](https://github-readme-stats.vercel.app/api?username=benardopiyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benardopiyo&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=benardopiyo&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🎯 Featured Projects
 
 <div align="left">
@@ -89,28 +77,6 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 [![Project](https://img.shields.io/badge/🦀_Rust_Engine-F67E7D?style=for-the-badge&logoColor=white)](https://github.com/benardopiyo/rust-engine)
 
 </div>
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=benardopiyo&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
-
-## Achievements & Recognition
-
-<div align="left">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=benardopiyo&theme=tokyonight&no-frame=true&row=2&column=3)
-
-### 🎖️ Special Badges
-![Commits](https://img.shields.io/badge/Total_Commits-1000+-00ADD8?style=for-the-badge&logo=git&logoColor=white)
-![Repositories](https://img.shields.io/badge/Public_Repos-25+-4ECDC4?style=for-the-badge&logo=github&logoColor=white)
-![Followers](https://img.shields.io/badge/Followers-100+-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- Add your blog posts here if you have any -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -136,8 +102,6 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 **Blockchain Infrastructure** • **AI Integration** • **Performance Optimization** • **Scalable Architecture**
 
 </div>
-
----
 
 <div align="left">
   
