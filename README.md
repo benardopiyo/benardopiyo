@@ -6,7 +6,7 @@
 
 </div>
 
-## About Me
+## About
 
 I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge solutions at the intersection of **AI**, **Web3**, and **distributed systems**. I build high-performance applications that scale globally and solve real-world challenges.
 
@@ -17,11 +17,11 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 - **2025 Goals:** Launch a Web3 startup, contribute to major blockchain protocols
 - **Fun fact:** I believe the future is **agentic**, **decentralized**, **intelligent**, and **lightning-fast**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="left">
 
-### Core Languages
+### Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,7 +60,7 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 
 </div>
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <div align="left">
 
@@ -78,7 +78,7 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 
 </div>
 
-## 🤝 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="left">
 
@@ -105,9 +105,6 @@ I'm a **Backend & Blockchain Engineer** passionate about crafting cutting-edge s
 
 <div align="left">
   
-**Building tomorrow's technology today 🚀 | Let's create the future together**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=benardopiyo&color=blueviolet&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/benardopiyo?style=social)](https://github.com/benardopiyo)
+**Building tomorrow's technology today | Let's create the future together**
 
 </div>
